@@ -1,0 +1,37 @@
+{
+  "name": "rest-api-hateos",
+  "version": "1.0.0",
+  "description": "hateos restapi selfdocumenting mocha unit testing nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "gulp": "*",
+    "gulp-nodemon": "*",
+    "mongoose": "*",
+    "body-parser": "*",
+    "sinon": "*",
+    "should": "*",
+    "gulp-mocha": "*"
+  },
+  "devDependencies": {
+    "gulp-env": "*",
+    "supertest": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mongodb",
+    "mongoose",
+    "hateos",
+    "restapi",
+    "postman",
+    "mocha",
+    "selfdocumenting",
+    "hypermedia"
+  ],
+  "author": "Prateek Madaan4",
+  "license": "ISC"
+}
